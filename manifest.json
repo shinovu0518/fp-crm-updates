@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.26.1616",
+  "version": "2026.10.26.2103",
   "revision": "a8a4744",
-  "url": "https://raw.githubusercontent.com/shinovu0518/fp-crm-updates/main/fp-crm-2026.10.26.1616.tar.gz",
-  "sha256": "5a448c8602f81d0dff162d27dd300bdb44991b045f80bf9f4cb60ce292620f9f",
+  "url": "https://raw.githubusercontent.com/shinovu0518/fp-crm-updates/main/fp-crm-2026.10.26.2103.tar.gz",
+  "sha256": "b425d58bac4b37cfb3597a0bb5bf4deb706d9aaff04cff066de2551b096c1b51",
   "requires_launcher": 1,
-  "notes": "最初の版"
+  "notes": "通しの確認用の更新（中身は同じ）"
 }
