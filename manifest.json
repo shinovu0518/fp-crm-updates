@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.26.2103",
-  "revision": "a8a4744",
-  "url": "https://raw.githubusercontent.com/shinovu0518/fp-crm-updates/main/fp-crm-2026.10.26.2103.tar.gz",
-  "sha256": "b425d58bac4b37cfb3597a0bb5bf4deb706d9aaff04cff066de2551b096c1b51",
+  "version": "2026.10.26.2134",
+  "revision": "3bfe93d",
+  "url": "https://raw.githubusercontent.com/shinovu0518/fp-crm-updates/main/fp-crm-2026.10.26.2134.tar.gz",
+  "sha256": "cb746f81192805c9f3eff53bbc3c11159bb8b89e6a1ff20483d91881317b027d",
   "requires_launcher": 1,
-  "notes": "通しの確認用の更新（中身は同じ）"
+  "notes": "Googleカレンダー連携のボタンを外しました（押すとエラーになっていたため）"
 }
